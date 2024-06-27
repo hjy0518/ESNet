@@ -1,13 +1,13 @@
-# ESNet: Efficient and Simple Network for RGB-D Salient Object Detection
+# PLFRNet: Perceptual Localization and Focus Refinement Network for RGB-D Salient Object Detection
 # Requirements
 * python 3.8
 * pytorch 2.0.1
 * Numpy 1.25.1
 * torchvision
 ## Trained model weights
-* Download the following trained model weights [ESNet](https://pan.baidu.com/s/1j-P25G3kMPI2crq2k6vanQ)(Code:2s2v) and put them in ./cpts.
+* Download the following trained model weights [PLFRNet](https://pan.baidu.com/s/1e_qKAgL9QmJY2tZiPLoqng)(Code:0yl9) and put them in ./cpts.
 ## Saliency maps
-* You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1GGN3Mya9BEKnRR_mVXADSw)(Code:jnn6)
+* You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1QaCJrbRwocc6PcFhf6dFNg)(Code:wsnm)
 ## Evaluate
 * You can get the assessment tool at this link (https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
 ## Citation
